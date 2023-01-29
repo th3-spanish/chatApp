@@ -1,0 +1,32 @@
+.container1 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 120px 150px 120px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  align-items: center;
+  
+}
+.title {
+    text-align: center;
+}
+.form {
+    color: black;
+    border-style: solid;
+    border-width: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px 20px 20px 20px;
+    background-color:#ffffff;
+    text-align: center;
+    
+    
+}
+.button{
+    margin-top:40px;
+    margin-bottom: 40px;
+    width: 75%;
+}
+.rights {
+    text-align: center;
+}
